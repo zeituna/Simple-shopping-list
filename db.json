@@ -22,13 +22,6 @@
       "status": "Needed"
     },
     {
-      "id": 4,
-      "itemName": "Chicken Breast",
-      "category": "Groceries",
-      "quantity": 3,
-      "status": "Purchased"
-    },
-    {
       "id": 5,
       "itemName": "Wireless Mouse",
       "category": "Electronics",
